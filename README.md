@@ -15,4 +15,4 @@ To run the experiments, please first download the official release of the datase
 ## Example on PACS choosing Cartoon as target:
     python3 train.py --target C --initial_lr 2e-4 --max_epoch 180	  
 
-Please feel free to contact the first author through fan <dot> zhou <dot> ai@gmail.com if you have any further comments.
+Please feel free to contact the first author through fan 'dot' zhou 'dot' ai@gmail.com if you have any further comments.
