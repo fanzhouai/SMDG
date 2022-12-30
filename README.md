@@ -7,7 +7,7 @@ We provide the demo code for review usage.
 We will release the source code upon paper acceptance.
 
 
-## 1. Download the dataset
+## Download the dataset
 
 To run the experiments, please first download the official release of the dataset files into the specific folders. Please make sure the folder structure keeps the same with configure.py. If you want to use different folders, please modify the configure.py and dloader.py to point the path accordingly.
 
